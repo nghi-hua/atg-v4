@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: At Page_inventory_html click on hyperlink_item_4_img_link --> navigate to Page_inventory-item_html",
+        "step 2: At Page_inventory-item_html navigate on inventory_object",
+        "step 3: At Page_inventory-item_html click on button_add_to_cart_item_not_found",
+        "step 4: At Page_inventory-item_html click on div_object",
+        "step 5: At Page_inventory-item_html click on button_react_burger_menu_btn",
+        "step 6: Add visual checkpoint at Page_inventory-item_html"
+    ]
+}
